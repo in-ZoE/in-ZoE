@@ -34,9 +34,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
-
-## 📊 Stats
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=in-ZoE&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in-ZoE&layout=compact&hide_border=true" />
-</p>
