@@ -1,7 +1,4 @@
 <p>
-  <a href="https://velog.io/@in-zoe/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">
-  </a>
   <a href="mailto:seon-01@naver.com">
     <img src="https://img.shields.io/badge/Mail-seon--01@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
